@@ -1,15 +1,34 @@
-header{
-  font-family:sans-serif;
+.header-footer{
+  text-align: center;
+  font-family: sans-serif;
+  background-color: steelblue;
+  padding: 10px;
+}
+
+main {
+  padding: 20px;
 }
 
 body{
-  margin: 5px;
-  padding: 20px;
+  margin: 25px;
   border: dotted black 5px;
+  background: thistle;
 }
 
 h1{
   margin: 0;
   letter-spacing: 5px;
   text-transform: uppercase;
+}
+
+.red {
+  color: red;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+#small-text {
+  font-size: 12px;
 }
