@@ -32,3 +32,23 @@ h1{
 #small-text {
   font-size: 12px;
 }
+
+.sub {
+  text-decoration: underline ;
+}
+
+#exp {
+  border-bottom: 5px red dashed;
+}
+
+#bio {
+  border-bottom: 5px blue dashed;
+}
+
+#ec {
+  border-bottom: 5px green dashed;
+}
+
+#sk {
+  border-bottom: 5px yellow dashed;
+}
